@@ -20,3 +20,5 @@ Using NumPy create random vector of size 20 having only float in the range 1-20.
 Then reshape the array to 4 by 5
 Then replace the max in each row by 0 (axis=1)
 (you can NOT implement it via for loop)
+
+Video Link: https://drive.google.com/file/d/1bxkMPSbtnZUnUfhFik_G7gA6FhW2t8z0/view?usp=drive_link
