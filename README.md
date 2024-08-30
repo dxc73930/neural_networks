@@ -1,15 +1,20 @@
-ICP2.ipynb file contains the code for 3 problems:
-1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
-fullname function that should return the (full name).
+Name : Deepika Cherukuri
+700#: 700757393
+ICP2
 
-o Write function named “string_alternative” that returns every other char in the full_name string.
-Str = “Good evening”
-Output: Go vnn
+ICP2.ipynb file contains the code for 2 problems:
 
-2. Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
-o Finally store the output in output.txt file
+1. Create a class Employee and then do the following
+• Create a data member to count the number of Employees
+• Create a constructor to initialize name, family, salary, department
+• Create a function to average salary
+• Create a Fulltime Employee class and it should inherit the properties of Employee class
+• Create the instances of Fulltime Employee class and Employee class and call their member functions.
 
-3. Write a program, which reads heights (inches.) of customers into a list and convert these
-heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
+
+
+2. Numpy
+Using NumPy create random vector of size 20 having only float in the range 1-20.
+Then reshape the array to 4 by 5
+Then replace the max in each row by 0 (axis=1)
+(you can NOT implement it via for loop)
