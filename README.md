@@ -1,17 +1,30 @@
-ICP1.ipynb file contains the code for 3 problems:
-1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
-fullname function that should return the (full name).
+ICP3.ipynb file contains the code for 2 problems:
+700: 700757393
+Deepika Cherukuri
+Fall 2024: CS5720 – NN &DL
+In-Class Programming Assignment-3
 
-o Write function named “string_alternative” that returns every other char in the full_name string.
-Str = “Good evening”
-Output: Go vnn
 
-2. Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
-o Finally store the output in output.txt file
+1.	Data Manipulation
+a.	Read the provided CSV file ‘data.csv’.
+b.	https://drive.google.com/drive/folders/1h8C3mLsso-R-sIOLsvoYwPLzy2fJ4IOF?usp=sharing
+c.	Show the basic statistical description about the data.
+d.	Check if the data has null values.
+i.	Replace the null values with the mean
+e.	Select at least two columns and aggregate the data using: min, max, count, mean.
+f.	Filter the dataframe to select the rows with calories values between 500 and 1000.
+g.	Filter the dataframe to select the rows with calories values > 500 and pulse < 100.
+h.	Create a new “df_modified” dataframe that contains all the columns from df except for “Maxpulse”.
+i.	Delete the “Maxpulse” column from the main df dataframe
+j.	Convert the datatype of Calories column to int datatype.
+k.	Using pandas create a scatter plot for the two columns (Duration and Calories). Example
 
-3. Write a program, which reads heights (inches.) of customers into a list and convert these
-heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
 
-Video Link: https://drive.google.com/file/d/1uTv5vr1oCGQjobMZG-8SxA2eRjMzH3uu/view?usp=sharing
+2.	Linear Regression
+a)	Import the given “Salary_Data.csv”
+b)	Split the data in train_test partitions, such that 1/3 of the data is reserved as test subset.
+c)	Train and predict the model.
+d)	Calculate the mean_squared error
+e)	Visualize both train and test data using scatter plot. 
+
+
