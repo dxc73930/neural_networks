@@ -25,6 +25,8 @@ a)	Import the given “Salary_Data.csv”
 b)	Split the data in train_test partitions, such that 1/3 of the data is reserved as test subset.
 c)	Train and predict the model.
 d)	Calculate the mean_squared error
-e)	Visualize both train and test data using scatter plot. 
+e)	Visualize both train and test data using scatter plot.
+
+Video Link: https://drive.google.com/file/d/1LPbUgsNkXzaQ80Ru7XpepGqb3EcJbb9p/view?usp=drive_link
 
 
