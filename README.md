@@ -1,3 +1,6 @@
+Name: Deepika Cherukuri
+700# : 700757393
+
 ICP4.ipynb file contains the code for 2 problems:
 
 1. 1. Use the use case in the class:
@@ -17,4 +20,4 @@ ICP4.ipynb file contains the code for 2 problems:
       activation to tanh or sigmoid and see what happens.
   4. Run the same code without scaling the images and check the performance?
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1ng-WStGpY3rxQGfS88UYhYlcu9f1LoBJ/view?usp=sharing
