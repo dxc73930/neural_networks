@@ -1,17 +1,20 @@
-ICP1.ipynb file contains the code for 3 problems:
-1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
-fullname function that should return the (full name).
+ICP4.ipynb file contains the code for 2 problems:
 
-o Write function named “string_alternative” that returns every other char in the full_name string.
-Str = “Good evening”
-Output: Go vnn
+1. 1. Use the use case in the class:
+  a. Add more Dense layers to the existing code and check how the accuracy changes.
+  2. Change the data source to Breast Cancer dataset * available in the source code folder and make required
+     changes. Report accuracy of the model.
+  3. Normalize the data before feeding the data to the model and check how the normalization change your
+     accuracy (code given below).
+     from sklearn.preprocessing import StandardScaler
+     sc = StandardScaler()
+2. Use Image Classification on the hand written digits data set (mnist)
+  1. Plot the loss and accuracy for both training data and validation data using the history object in the source
+      code.
+  2. Plot one of the images in the test data, and then do inferencing to check what is the prediction of the model
+      on that single image.
+  3. We had used 2 hidden layers and Relu activation. Try to change the number of hidden layer and the
+      activation to tanh or sigmoid and see what happens.
+  4. Run the same code without scaling the images and check the performance?
 
-2. Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
-o Finally store the output in output.txt file
-
-3. Write a program, which reads heights (inches.) of customers into a list and convert these
-heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
-
-Video Link: https://drive.google.com/file/d/1uTv5vr1oCGQjobMZG-8SxA2eRjMzH3uu/view?usp=sharing
+Video Link: 
