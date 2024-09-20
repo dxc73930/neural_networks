@@ -27,4 +27,4 @@ Did the performance change?
 images to check whether or not the model has predicted correctly.
 3. Visualize Loss and Accuracy using the history object
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1f-HNU_Mpy4gRtOxIWWABcWZ3LI5Kc8Jn/view?usp=sharing
