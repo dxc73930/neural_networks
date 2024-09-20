@@ -1,17 +1,30 @@
-ICP1.ipynb file contains the code for 3 problems:
-1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to
-fullname function that should return the (full name).
+ICP5.ipynb file contains the code for 3 problems:
+Name: Deepika Cherukuri
+700#: 700757393
 
-o Write function named “string_alternative” that returns every other char in the full_name string.
-Str = “Good evening”
-Output: Go vnn
+1. Follow the instruction below and then report how the performance changed.(apply all at once)
+• Convolutional input layer, 32 feature maps with a size of 3×3 and a rectifier activation function.
+• Dropout layer at 20%.
+• Convolutional layer, 32 feature maps with a size of 3×3 and a rectifier activation function.
+• Max Pool layer with size 2×2.
+• Convolutional layer, 64 feature maps with a size of 3×3 and a rectifier activation function.
+• Dropout layer at 20%.
+• Convolutional layer, 64 feature maps with a size of 3×3 and a rectifier activation function.
+• Max Pool layer with size 2×2.
+• Convolutional layer, 128 feature maps with a size of 3×3 and a rectifier activation function.
+• Dropout layer at 20%.
+• Convolutional layer,128 feature maps with a size of 3×3 and a rectifier activation function.
+• Max Pool layer with size 2×2.
+• Flatten layer.
+• Dropout layer at 20%.
+• Fully connected layer with 1024 units and a rectifier activation function.
+• Dropout layer at 20%.
+• Fully connected layer with 512 units and a rectifier activation function.
+• Dropout layer at 20%.
+• Fully connected output layer with 10 units and a Softmax activation function
+Did the performance change?
+2. Predict the first 4 images of the test data using the above model. Then, compare with the actual label for those 4
+images to check whether or not the model has predicted correctly.
+3. Visualize Loss and Accuracy using the history object
 
-2. Write a python program to find the wordcount in a file (input.txt) for each line and then print the output.
-o Finally store the output in output.txt file
-
-3. Write a program, which reads heights (inches.) of customers into a list and convert these
-heights to centimeters in a separate list using:
-1) Nested Interactive loop.
-2) List comprehensions
-
-Video Link: https://drive.google.com/file/d/1uTv5vr1oCGQjobMZG-8SxA2eRjMzH3uu/view?usp=sharing
+Video Link: 
