@@ -13,5 +13,4 @@ In class programming:
 We are respected again throughout the world, and that's a great thing.@realDonaldTrump”)
 2. Apply GridSearchCV on the source code provided in the class
 
-Video Link: 
-https://drive.google.com/file/d/17ZwiGl8upm6u7GdD_Yqj_5gB3SD-n3Hl/view?usp=sharing
+Video Link: https://drive.google.com/file/d/1sraPC-Yl2ncaGEaJRD75idP-4OjX04gP/view?usp=sharing
