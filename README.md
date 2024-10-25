@@ -2,12 +2,15 @@
 Name: Deepika Cherukuri
 700#: 700757393
 
-ICP6.ipynb file contains the code for 4 problems:
+ICP7.ipynb file contains the code for 4 problems:
+1. Sentiment Analysis on the Twitter dataset
+Programming elements:
+1. Basics of LSTM
+2. Types of RNN
+3. Use case: Sentiment Analysis on the Twitter data set
 In class programming:
-1. Add one more hidden layer to autoencoder
-2. Do the prediction on the test data and then visualize one of the reconstructed version of that test data.
-Also, visualize the same test data before reconstruction using Matplotlib
-3. Repeat the question 2 on the denoisening autoencoder
-4. plot loss and accuracy using the history object
+1. Save the model and use the saved model to predict on new text data (ex, “A lot of good things are happening.
+We are respected again throughout the world, and that's a great thing.@realDonaldTrump”)
+2. Apply GridSearchCV on the source code provided in the class
 
-Video Link: https://drive.google.com/file/d/1QyuBUpFLWwxqoyNS1BYxsLZivL0fST2C/view?usp=sharing
+Video Link: 
